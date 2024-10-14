@@ -179,7 +179,7 @@ transform: translateX(0);
 }
 .remember-forgot{
     font-size: .9em;
-    color: lightblue;
+    color: red;
     font-weight: 500;
     margin: -15px 0 15px;
     display: flex;
