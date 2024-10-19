@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('img/1TbWflK-strawberry-wallpaper.png');
+    background: url('img/pexels-felixmittermeier-1146134.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -28,14 +28,13 @@ header{
 }
 .logo{
     font-size: 2em;
-    color: blue ;
+    color: white ;
     user-select: none;
-     
 }
 .navigation a{
     position: relative;
     font-size: 1.1em;
-    color: blue;
+    color: white;
     text-decoration: none;
     font-weight: 500;
     margin-left: 40px;
@@ -47,7 +46,7 @@ header{
    bottom: -6px;
    width: 100%;
    height: 3px;
-   background: blue;
+   background: red;
    border-radius: 5px;
    transform-origin: right;
    transform: scaleX(0);
@@ -62,7 +61,7 @@ header{
     width: 130px; 
     height: 50px;
     background: transparent;
-    border: 2px solid #421414;
+    border: 2px solid lightseagreen;
     outline: none;
     border-radius: 6px;
     cursor: pointer;
@@ -71,8 +70,8 @@ header{
     transition: .5s;
 }
 .navigation .btnLogin-popup:hover{
-    background:  green;
-    color: blue;
+    background:  red;
+    color: gold;
 }
 .wrapper{
     position: relative;
@@ -186,16 +185,15 @@ transform: translateX(0);
     justify-content: space-between;
 }
 .remember-forgot label input{
-    accent-color: red;
+    accent-color: white;
     margin-right: 3px;
 }
 .remember-forgot a{
-    color: #162938;
+    color: whitesmoke;
     text-decoration: none;
 }
 .remember-forgot a:hover{
     text-decoration: underline;
-
 }
 .btn{
     width: 100%;
@@ -205,17 +203,17 @@ transform: translateX(0);
     outline: none;
     cursor: pointer;
     font-size: 1em;
-    color: pink;
+    color:pink;
 }
 .login-register{
     font-size: .9em;
-    color: #162938;
+    color: #078ef5;
     text-align: center;
     font-weight: 00;
     margin: 25px 0 10px;
 }
 .login-register p a{
-    color: #162938;
+    color: #008bf5;
     font-weight: 600;
 }
 .login-register p a :hover{
