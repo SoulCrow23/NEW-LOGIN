@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('img/pexels-felixmittermeier-1146134.jpg');
+    background: url('img/london-boy--p_FG8chIPI-unsplash.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -28,13 +28,13 @@ header{
 }
 .logo{
     font-size: 2em;
-    color: white ;
+    color: gold ;
     user-select: none;
 }
 .navigation a{
     position: relative;
     font-size: 1.1em;
-    color: white;
+    color: rgb(28, 21, 136);
     text-decoration: none;
     font-weight: 500;
     margin-left: 40px;
